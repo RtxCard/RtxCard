@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RtxCard
+- 👋 Hi, I’m @FunnyMilky
 - 👀 I’m interested in html code and Video Games
 - 🌱 I’m currently learning html
 - 💞️ I’m looking to collaborate on facebook
